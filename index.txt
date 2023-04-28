@@ -1,2 +1,3 @@
 Tela de Relatório
-Tela de login 
+Tela de login
+Tela de cadastro de cliente
